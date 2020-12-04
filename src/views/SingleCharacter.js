@@ -13,8 +13,6 @@ export default function SingleCharacter () {
     getSingleCharacter(id).then(setCharacter)
   }, [id])
 
-  console.log(character)
-
   return (
     <>
       <NavBar/>
