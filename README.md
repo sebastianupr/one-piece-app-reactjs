@@ -1,4 +1,5 @@
 # One piece App
+![](one-piece-image.png)
 
 # Getting Started with Create React App
 
